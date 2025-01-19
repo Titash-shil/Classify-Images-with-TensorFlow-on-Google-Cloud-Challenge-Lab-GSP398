@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Using-Specialized-Processors-with-Document-AI-Python--GSP1140/refs/heads/main/qwiklab_explorers_gsp1140.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Classify-Images-with-TensorFlow-on-Google-Cloud-Challenge-Lab-GSP398/refs/heads/main/qwiklab_explorers_gsp398.sh
 
-sudo chmod +x qwiklab_explorers_gsp1140.sh
+sudo chmod +x qwiklab_explorers_gsp398.sh
 
-./qwiklab_explorers_gsp1140.sh
+./qwiklab_explorers_gsp398.sh
 ```
 -  Download `cnn_challenge_lab-v1.0.0.ipynb` file from [here](https://drive.google.com/uc?export=download&id=1cxn75Welotezp3x-4ZZ7MJti08ao5l-f)
 
