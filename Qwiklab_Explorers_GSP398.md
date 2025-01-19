@@ -16,7 +16,7 @@ sudo chmod +x qwiklab_explorers_gsp398.sh
 
 ./qwiklab_explorers_gsp398.sh
 ```
--  Download `cnn_challenge_lab-v1.0.0.ipynb` file from [here](https://drive.google.com/uc?export=download&id=1cxn75Welotezp3x-4ZZ7MJti08ao5l-f)
+-  Download `cnn_challenge_lab-v1.0.0.ipynb` file from [here](https://github.com/Titash-shil/Classify-Images-with-TensorFlow-on-Google-Cloud-Challenge-Lab-GSP398/blob/main/Qwiklab_Explorers_GSP398.md)
 
 ---
 
